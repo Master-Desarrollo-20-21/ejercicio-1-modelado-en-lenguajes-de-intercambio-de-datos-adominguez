@@ -1,0 +1,153 @@
+---
+lunes:
+  tasks:
+  - name: Moderno Nekane niños
+    initialHour: '2020-10-10 17:30:00.120174'
+    finishHour: '2020-10-10 18:30:00.120174'
+    color: magenta
+  - name: Jazz Nekane Musical PG II PG III
+    initialHour: '2020-10-10 18:30:00.120174'
+    finishHour: '2020-10-10 19:30:00.120174'
+    color: yellow
+  - name: Postgrado musical Adultos malia
+    initialHour: '2020-10-10 17:30:00.120174'
+    finishHour: '2020-10-10 18:00:00.120174'
+    color: red
+  - name: Jóvenes 13-17 Malia
+    initialHour: '2020-10-10 18:00:00.120174'
+    finishHour: '2020-10-10 18:30:00.120174'
+    color: orange
+  - name: Ballet PG II PG III y Musical
+    initialHour: '2020-10-10 17:30:00.120174'
+    finishHour: '2020-10-10 18:30:00.120174'
+    color: yellow
+  - name: Interpret. Nacho
+    initialHour: '2020-10-10 17:30:00.120174'
+    finishHour: '2020-10-10 18:30:00.120174'
+    color: blue
+martes:
+  tasks:
+  - name: Cuenta cuentos Pilar
+    initialHour: '2020-11-10 17:30:00.120174'
+    finishHour: '2020-11-10 18:30:00.120174'
+    color: violet
+  - name: Canto niñas Yanet
+    initialHour: '2020-11-10 18:00:00.120174'
+    finishHour: '2020-11-10 18:30:00.120174'
+    color: violet
+  - name: 3º musial E/R Yanet
+    initialHour: '2020-11-10 19:00:00.120174'
+    finishHour: '2020-11-10 20:00:00.120174'
+    color: blue
+  - name: 1º Estilo y repertorio Yanet
+    initialHour: '2020-11-10 20:00:00.120174'
+    finishHour: '2020-11-10 21:00:00.120174'
+    color: blue
+  - name: Canto grados y particular marina
+    initialHour: '2020-11-10 17:00:00.120174'
+    finishHour: '2020-11-10 21:00:00.120174'
+    color: blue
+  - name: Ballet barra al suelo Alicia
+    initialHour: '2020-11-10 17:30:00.120174'
+    finishHour: '2020-11-10 18:30:00.120174'
+    color: yellow
+  - name: Post grado musical adultos malia
+    initialHour: '2020-11-10 17:30:00.120174'
+    finishHour: '2020-11-10 18:00:00.120174'
+    color: red
+  - name: Jóvenes 13-17 Malia
+    initialHour: '2020-11-10 18:00:00.120174'
+    finishHour: '2020-11-10 18:30:00.120174'
+    color: orange
+miercoles:
+  tasks:
+  - name: Ballet infantil Marina Ortega
+    initialHour: '2020-12-10 17:30:00.120174'
+    finishHour: '2020-12-10 18:30:00.120174'
+    color: violet
+  - name: Jazz 9-12 stefy PG II
+    initialHour: '2020-12-10 18:30:00.120174'
+    finishHour: '2020-12-10 19:30:00.120174'
+    color: yellow
+  - name: Urbanos Nekane
+    initialHour: '2020-12-10 17:30:00.120174'
+    finishHour: '2020-12-10 19:00:00.120174'
+    color: yellow
+  - name: Ballet PGIV
+    initialHour: '2020-12-10 19:00:00.120174'
+    finishHour: '2020-12-10 20:00:00.120174'
+    color: gray
+  - name: Post grado musical adultos malla
+    initialHour: '2020-12-10 17:30:00.120174'
+    finishHour: '2020-12-10 18:00:00.120174'
+    color: red
+  - name: Jóvenes 13-17 malia
+    initialHour: '2020-12-10 18:00:00.120174'
+    finishHour: '2020-12-10 18:30:00.120174'
+    color: orange
+jueves:
+  tasks:
+  - name: Teatro musical infantil marina pastor
+    initialHour: 2020-13-10 17:00:00.120174
+    finishHour: 2020-13-10 18:00:00.120174
+    color: violet
+  - name: PG II 8-11 Teatro musical marina pastor
+    initialHour: 2020-13-10 18:00:00.120174
+    finishHour: 2020-13-10 19:00:00.120174
+    color: yellow
+  - name: Canto Marina grados y particular
+    initialHour: 2020-13-10 19:00:00.120174
+    finishHour: 2020-13-10 20:00:00.120174
+    color: blue
+  - name: PG III 12 años Teatro musical Marina Pastor
+    initialHour: 2020-13-10 20:00:00.120174
+    finishHour: 2020-13-10 21:00:00.120174
+    color: darkblue
+  - name: Claqué Cecilia
+    initialHour: 2020-13-10 17:30:00.120174
+    finishHour: 2020-13-10 18:00:00.120174
+    color: blue
+  - name: Postgrado musical adultos Malia
+    initialHour: 2020-13-10 18:00:00.120174
+    finishHour: 2020-13-10 18:30:00.120174
+    color: red
+  - name: Jóvenes 13-17
+    initialHour: 2020-13-10 18:30:00.120174
+    finishHour: 2020-13-10 19:00:00.120174
+    color: orange
+  - name: 3º avanzado interpretación Jorge-clases particulares
+    initialHour: 2020-13-10 19:30:00.120174
+    finishHour: 2020-13-10 20:30:00.120174
+    color: blue
+viernes:
+  tasks:
+  - name: Gestión emocional jovenes mayores de edad
+    initialHour: 2020-14-10 17:30:00.120174
+    finishHour: 2020-14-10 18:30:00.120174
+    color: Green
+  - name: 1º canto y 3º Musical Yanet
+    initialHour: 2020-14-10 18:30:00.120174
+    finishHour: 2020-14-10 20:00:00.120174
+    color: blue
+  - name: Postgrado musical adultos malia
+    initialHour: 2020-14-10 17:30:00.120174
+    finishHour: 2020-14-10 18:00:00.120174
+    color: red
+  - name: Jóvenes 13-17 Malia
+    initialHour: 2020-14-10 18:00:00.120174
+    finishHour: 2020-14-10 18:30:00.120174
+    color: orange
+  - name: Gestión Emocioanl
+    initialHour: 2020-14-10 18:30:00.120174
+    finishHour: 2020-14-10 19:30:00.120174
+    color: green
+  - name: Escena Studio en abierto
+    initialHour: 2020-14-10 20:00:00.120174
+    finishHour: 2020-14-10 21:00:00.120174
+    color: blue
+domingo:
+  tasks:
+  - name: Gestión emocional adolescentes domingos
+    initialHour: 2020-16-10 20:00:00.120174
+    finishHour: 2020-16-10 21:00:00.120174
+    color: darkgreen

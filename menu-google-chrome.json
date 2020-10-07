@@ -1,0 +1,86 @@
+{
+    "newWindow": {
+        "name": "Nueva ventana",
+        "shortcut": "control + N"
+    },
+    "newUnknownWindow": {
+        "name": "Nueva ventana de incógnito",
+        "shortcut": "shift + control + N"
+    },
+    "history": {
+        "name": "Historial",
+        "shortcut": "control + H",
+        "children": {
+            "recentlyClosed": [
+                {"url": "https://recently-url-closed-1.com"},
+                {"url": "https://recently-url-closed-2.com"},
+                {"url": "https://recently-url-closed-3.com"},
+                {"url": "https://recently-url-closed-4.com"}
+            ],
+            "device1": [
+                {"url": "https://recently-url-closed-1.com"},
+                {"url": "https://recently-url-closed-2.com"},
+                {"url": "https://recently-url-closed-3.com"}
+            ],
+            "device2": [
+                {"url": "https://recently-url-closed-1.com"},
+                {"url": "https://recently-url-closed-2.com"},
+                {"url": "https://recently-url-closed-3.com"}
+            ]
+        }
+    },
+    "downloads": {
+        "name": "Descargas",
+        "shortcut": "control + J"
+    },
+    "markers": {
+        "name": "Marcadores",
+        "children": {
+            "addNewTab": {
+                "name": "Añadir nueva pestaña",
+                "shortcut": "control + D"
+            },
+            "addAllTabToMarker": {
+                "name": "Añadir todas las pestañas a marcadores",
+                "shortcut": "control + D"
+            },
+            "marker1": {
+                "name": "nombre de la carpeta 1 de marcador",
+                "type": "folder",
+                "children": [
+                    {
+                        "url": "https://marker-1.com",
+                        "type": "url",
+                        "name": "nombre para el marcador 1"
+                    },
+                    {
+                        "url": "https://marker-2.com",
+                        "type": "url",
+                        "name": "nombre para el marcador 2"
+                    },
+                    {
+                        "url": "https://marker-3.com",
+                        "type": "url",
+                        "name": "nombre para el marcador 3"
+                    },
+                    {
+                        "type": "folder",
+                        "name": "nombre de la subcarpeta 1",
+                        "children": [
+                            {
+                                "url": "https://submarker-1.com",
+                                "type": "url",
+                                "name": "nombre para el submarcador 1"
+                            },
+                            {
+                                "url": "https://submarker-2.com",
+                                "type": "url",
+                                "name": "nombre para el submarcador 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

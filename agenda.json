@@ -1,0 +1,16 @@
+{
+    "people": [
+        {"name": "Pedro Sanchez", "phone": "652354895", "id": 1, "backupContactsId": [2, 3] },
+        {"name": "Margarita Robles", "phone": "695369852", "id": 2, "backupContactsId": [1, 3] },
+        {"name": "Nadia Calviño", "phone": "625874025", "id": 3, "backupContactsId": [1, 2] },
+        {"name": "Pablo Casado", "phone": "698365201", "id": 4, "backupContactsId": [5, 6] },
+        {"name": "Cayetana Alvarez de Toledo", "phone": "695320025", "id": 5, "backupContactsId": [4, 6] },
+        {"name": "Teodoro García", "phone": "632025144", "id": 6, "backupContactsId": [4, 5] },
+        {"name": "Pablo Iglesias", "phone": "688225369", "id": 7, "backupContactsId": [8, 9] },
+        {"name": "Irene Montero", "phone": "633025001", "id": 8, "backupContactsId": [7, 9] },
+        {"name": "Pablo Echenique", "phone": "678963058", "id": 9, "backupContactsId": [7, 8] },
+        {"name": "Santiago Abascal", "phone": "622558302", "id": 10, "backupContactsId": [11, 12] },
+        {"name": "Javier Smith", "phone": "632589011", "id": 11, "backupContactsId": [10, 12] },
+        {"name": "Ivan Espinosa de los monteros", "phone": "693652698", "id": 12, "backupContactsId": [10, 11] }
+    ]
+}

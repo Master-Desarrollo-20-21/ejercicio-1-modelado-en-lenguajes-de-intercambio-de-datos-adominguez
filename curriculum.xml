@@ -1,0 +1,62 @@
+<curriculum>
+    <person>
+        <name>Michelle</name>
+        <lastname>Torres Quiroz</lastname>
+        <age>25</age>
+        <direction>Av. Siempreviva</direction>
+        <phone>55-34-4595</phone>
+        <email>curriculum@gmail.com</email>
+    </person>
+    <profile>Tengo un caracter de mujer emprendedora, porque en los negocios o actividades laborales, suelo ser muy dinámica, responsable, puntual, puedo llevar la responsabilidad de un equipo de personas, visionaria y sobre todo motivadora.</profile>
+    <academic-studies>
+        <title>Universidad Autónoma de México</title>
+    </academic-studies>
+    <academic-studies>
+        <title>Licenciatura en Ciencias de la Comunicación</title>
+        <startdate>2001</startdate>
+        <finishdate>2005</finishdate>
+    </academic-studies>
+    <academic-studies>
+        <title>Universidad Autónoma de México</title>
+    </academic-studies>
+    <academic-studies>
+        <title>Licenciatura de derecho</title>
+        <startdate>1996</startdate>
+        <finishdate>2000</finishdate>
+    </academic-studies>
+    <jobs>
+        <name>Asesor Jurídico para Revista México</name>
+        <startdate>2000</startdate>
+        <finishdate>2011</finishdate>
+    </jobs>
+    <jobs>
+        <name>Creadora publicitaria y editora de revista y periódico</name>
+        <startdate>2000</startdate>
+        <finishdate>2011</finishdate>
+    </jobs>
+    <jobs>
+        <name>Escritora de libros</name>
+        <startdate>2008</startdate>
+        <finishdate>2011</finishdate>
+    </jobs>
+    <jobs>
+        <name>Redactora de artículos para website</name>
+        <startdate>2005</startdate>
+        <finishdate>2011</finishdate>
+    </jobs>
+    <knowledges>Administrativas y contable</knowledges>
+    <knowledges>Curso realizado online</knowledges>
+    <knowledges>Constancia de la SEC</knowledges>
+    <knowledges>Windows office</knowledges>
+    <knowledges>excell</knowledges>
+    <knowledges>Word</knowledges>
+    <knowledges>publisher</knowledges>
+    <knowledges>adobe</knowledges>
+    <knowledges>Corel Draw</knowledges>
+    <knowledges>Photodeluxe</knowledges>
+    <knowledges>Equipo de cómputo</knowledges>
+    <knowledges>Impresoras</knowledges>
+    <knowledges>Copiadoras</knowledges>
+    <knowledges>Dominio de inglés 90%</knowledges>
+</curriculum>
+	
